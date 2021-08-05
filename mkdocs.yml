@@ -1,0 +1,12 @@
+site_name: Jeong jae yeon Personal Homepage
+
+
+plugins:
+    - search
+
+markdown_extensions:
+    - attr_list
+
+nav:
+        - 'Home' : index.md
+        - 'Profile': about.md
